@@ -20,6 +20,8 @@ This is a simple and lightweight FTP component with the following features:
 
 ## Usage
 
+Requires Java8+.
+
 ### Install
 ```xml
 <dependency>
