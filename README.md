@@ -10,7 +10,7 @@
 This is a simple and lightweight FTP component with the following features:
 
 - Simple & Lightweight: Easy to use and minimal in size.
-- Based on JDK's `sun.*` extension package: Most standard JDK distributions already include built-in FTP capabilities. However, some environments (such as Android) do not support the sun.* packages — that's where this component comes in handy.
+- Based on JDK's `sun.*` extension package: Most standard JDK distributions already include built-in FTP capabilities. However, some environments (such as Android) do not support the `sun.*` packages — that's where this component comes in handy.
 - Supports Progress Tracking: Adds the ability to monitor upload/download progress.
 
 ## Source code
